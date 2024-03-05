@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <img alt="Coding" width="900" height="210" src="https://i.pinimg.com/736x/45/05/cf/4505cf2c0926b7cb73178a87e40b3af2--javascript-python.jpg">
 </div>
@@ -19,11 +17,19 @@
   <span>I'm glad you're checking my profile 😁</span>
 </p>
 
-🎓 Education:
-- Moringa School Graduate (Python - Flask, JavaScript - React)
-- ALX Intro To SWE Program Graduate (Python - Flask, JavaScript - React/Vue)
-- Power Learn Project Nanodegree Program (Python - Django, Dart, Flutter)
-- ALX Software Engineering Nanodegree Program (NodeJS, Flask, TypeScript, Django)
+<div align="left">
+  <h3>🎓 Education:</h3>
+  <ul>
+    <li>Moringa School Graduate (Python - Flask, JavaScript - React)</li>
+    <li>ALX Intro To SWE Program Graduate (Python - Flask, JavaScript - React/Vue)</li>
+    <li>Power Learn Project Nanodegree Program (Python - Django, Dart, Flutter)</li>
+    <li>ALX Software Engineering Nanodegree Program (NodeJS, Flask, TypeScript, Django)</li>
+  </ul>
+</div>
+
+<div align="right">
+  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
+</div>
 
 🚀 Currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS
 
@@ -32,10 +38,6 @@
 ⚡ Proficient Stacks: Flask, Django, Node.js & React.js
 
 ⚡ Fun fact: I am both a **Software Engineer** and a **Resource Planner!**
-
-<div align="right">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
-</div>
 
 ![Developer GIF](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
