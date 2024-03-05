@@ -27,10 +27,6 @@
   </ul>
 </div>
 
-<div align="right">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/developer.gif" alt="">
-</div>
-
 🚀 Currently working on MongoDB, Docker, Kubernetes, Azure Cloud, AWS
 
 🌟 I'm a member of **ALX/ALX SE**
